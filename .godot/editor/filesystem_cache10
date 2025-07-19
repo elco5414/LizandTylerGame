@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1752954082
+README.md::TextFile::-1::1752461103::0::1::::<><><>0<>0<><>::
+::res://assets/::1752461283
+::res://assets/sounds/::1752461283
+::res://assets/sprites/::1752461280
+::res://globals/::1752461305
+::res://scenes/::1752461414
+main.tscn::PackedScene::-1::1752461407::0::1::::<><><>0<>0<><>::
+player.tscn::PackedScene::-1::1752461414::0::1::::<><><>0<>0<><>::
+::res://scripts/::1752461426
+player.gd::GDScript::8627920155595319581::1752461470::0::1::::<>RefCounted<><>0<>0<><>::
+::res://ui/::1752461297
